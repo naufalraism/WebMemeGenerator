@@ -10,6 +10,8 @@ Pembuat meme sederhana yang berjalan **sepenuhnya di browser**. Cukup satu file 
 
 > 🔒 **Privasi:** gambar yang kamu pilih hanya di-render di perangkatmu (client side, bukan server side), jadi tidak ada yang disimpan atau diunggah ke mana pun.
 
+**Live demo:** [https://bikin-meme.vercel.app/](https://bikin-meme.vercel.app/)
+
 ### ✨ Fitur
 
 - **Ukuran otomatis:** canvas mengikuti rasio foto asli (portrait maupun landscape), tanpa area kosong.
