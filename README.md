@@ -78,6 +78,8 @@ A simple meme maker that runs **entirely in your browser**. One HTML file: no bu
 
 > 🔒 **Privacy:** the image you pick is only rendered on your device (client side, not server side), so nothing is stored or uploaded anywhere.
 
+**Live demo:** [https://bikin-meme.vercel.app/](https://bikin-meme.vercel.app/)
+
 ### ✨ Features
 
 - **Automatic sizing:** the canvas follows the original photo's aspect ratio (portrait or landscape), with no empty space.
